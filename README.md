@@ -1,3 +1,5 @@
+<img width="1408" height="768" alt="Gemini_Generated_Image_u67k5du67k5du67k" src="https://github.com/user-attachments/assets/48963b96-e8d7-42f2-8f5d-6721db0a0730" />
+
 # What Actually Happens When You Talk to a Language Model
 
 I wanted to explore what exactly does a model consists of how does the flow really work. So I went to hugging face and started exploring the 
@@ -365,6 +367,8 @@ The model predicts one token, appends it to the sequence, and goes back to Step 
 Generating a response of 300 words takes roughly 400 loops of this process.
 
 ---
+
+<img width="1408" height="768" alt="understand_llm" src="https://github.com/user-attachments/assets/fb300cb7-09f7-43a5-a53c-e6a2dc47a0b9" />
 
 ## The Special Tokens and the Chat Template
 
